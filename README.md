@@ -3,6 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 🌍 Sou de Juazeiro-BA, Brasil
+<br>
 🎓 Estudante de Engenharia de Software - FIAP
 ⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software
 🎯 Foco em HTML, CSS, JavaScript, Python e Java
