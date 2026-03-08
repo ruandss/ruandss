@@ -5,9 +5,13 @@
 🌍 Sou de Juazeiro-BA, Brasil
 <br>
 🎓 Estudante de Engenharia de Software - FIAP
+<br>
 ⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software
+<br>
 🎯 Foco em HTML, CSS, JavaScript, Python e Java
+<br>
 ✨ Criando projetos para aprimorar minhas habilidades
+<br>
 
 <p align="left">
     <a href="https://www.youtube.com/@y2khuan?sub_confirmation=1">
@@ -122,10 +126,15 @@
 
 ### 📁 Repositório de Projetos
 Frontend - Designs e interfaces com HTML, CSS e JavaScript
+<br>
 Python - Projetos e desafios em Python
+<br>
 SQL - Consultas e banco de dados
+<br>
 Desafios - Exercícios para melhorar habilidades de código
+<br>
 Aprendizado - Anotações e mini-projetos
+<br>
 
 
 ### 📊 Estatísticas
