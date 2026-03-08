@@ -154,3 +154,5 @@ Aprendizado - Anotações e mini-projetos
 </p>
 
 <br clear="both">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ruandss)
