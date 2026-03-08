@@ -1,8 +1,12 @@
-# Ruan Sousa
+# Olá, eu sou o Ruan Sousa!
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ruan dos Santos Sousa, tenho 25 anos e sou natural da Paraíba. Atualmente, estou cursando Engenharia de Software na FIAP.
+🌍 Sou de Juazeiro-BA, Brasil
+🎓 Estudante de Engenharia de Software - FIAP
+⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software
+🎯 Foco em HTML, CSS, JavaScript, Python e Java
+✨ Criando projetos para aprimorar minhas habilidades
 
 <p align="left">
     <a href="https://www.youtube.com/@y2khuan?sub_confirmation=1">
@@ -114,6 +118,14 @@ Me chamo Ruan dos Santos Sousa, tenho 25 anos e sou natural da Paraíba. Atualme
 
 <br/>
 <br/>
+
+### 📁 Repositório de Projetos
+Frontend - Designs e interfaces com HTML, CSS e JavaScript
+Python - Projetos e desafios em Python
+SQL - Consultas e banco de dados
+Desafios - Exercícios para melhorar habilidades de código
+Aprendizado - Anotações e mini-projetos
+
 
 ### 📊 Estatísticas
 
