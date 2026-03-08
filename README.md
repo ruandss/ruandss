@@ -1,4 +1,4 @@
-# Olá, eu sou o Ruan Sousa! 👋
+# Olá, eu sou Ruan Sousa! 👋
 
 **`Desenvolvedor FullStack`**
 
