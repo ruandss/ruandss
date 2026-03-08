@@ -137,32 +137,4 @@ Aprendizado - Anotações e mini-projetos
 <br>
 
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruandss&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruandss&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Sequência de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ruandss&theme=tokyonight)
-
----
-
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/ruandss/ruandss/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌎 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM)
-
----
-
 ⭐ Sempre evoluindo no mundo da programação.
