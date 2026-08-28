@@ -4,7 +4,7 @@
 
 🌍 Sou de Juazeiro-BA, Brasil
 <br>
-🎓 Estudante de Engenharia de Software - FIAP
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UNINASSAU
 <br>
 ⚡ Aspirante a Full-Stack com interesse em Desenvolvimento Web e Software
 <br>
